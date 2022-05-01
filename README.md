@@ -445,8 +445,9 @@ sns.heatmap(corrmat,cmap= cmap,annot=True, square=True)
 
 
     
-![png](output_18_1.png)
+![output_18_1](https://user-images.githubusercontent.com/75635908/166144383-a9c7e6e5-dbfb-49a5-a8a0-97567e8e64e4.png)
     
+
 
 
 #### Note:
@@ -476,7 +477,8 @@ Days_of_week.set_title("Distribution Of Age", color="#774571")
 
 
     
-![png](output_21_1.png)
+![output_21_1](https://user-images.githubusercontent.com/75635908/166144416-0bfdc45b-2dbf-4c50-a691-f4a562e35156.png)
+
     
 
 
@@ -494,44 +496,43 @@ for i in feature:
 
 
     
-![png](output_23_0.png)
-    
+![output_23_0](https://user-images.githubusercontent.com/75635908/166144453-e7d4c276-e873-424f-a6c5-670894912ac7.png)
 
-
-
-    
-![png](output_23_1.png)
     
 
 
 
     
-![png](output_23_2.png)
+![output_23_1](https://user-images.githubusercontent.com/75635908/166144492-06b94646-e35a-4379-b263-7c1f72ef63ba.png)
+
+
+
+
+    
+![output_23_2](https://user-images.githubusercontent.com/75635908/166144494-d8824ee3-28a5-40cc-af61-052e8bf4d6b4.png)
+
+
+    
+![output_23_3](https://user-images.githubusercontent.com/75635908/166144520-60e7dcf3-3776-4e83-b883-07c4b7fa595b.png)
+
+    
+![output_23_4](https://user-images.githubusercontent.com/75635908/166144536-9b2c6203-5398-41cd-a921-11d381e0ba20.png)
+
     
 
 
 
     
-![png](output_23_3.png)
+![output_23_5](https://user-images.githubusercontent.com/75635908/166144559-f76e9690-2d4b-4342-a371-fe0ae8a44438.png)
     
 
 
 
     
-![png](output_23_4.png)
-    
-
-
+![output_23_6](https://user-images.githubusercontent.com/75635908/166144587-ab6d74c9-93c9-4a9f-87df-221844920233.png)
 
     
-![png](output_23_5.png)
-    
 
-
-
-    
-![png](output_23_6.png)
-    
 
 
 #### Note:
@@ -554,7 +555,8 @@ sns.kdeplot(x=Heart_Failure["time"], y=Heart_Failure["age"], hue =Heart_Failure[
 
 
     
-![png](output_26_1.png)
+![output_26_1](https://user-images.githubusercontent.com/75635908/166144625-d93b8001-da08-4596-8424-5b73aaf4aab3.png)
+
     
 
 
@@ -766,7 +768,8 @@ plt.show()
 
 
     
-![png](output_34_0.png)
+![output_34_0](https://user-images.githubusercontent.com/75635908/166144646-592704b8-322e-418a-a9d9-0b4adce1caf5.png)
+
     
 
 
@@ -837,8 +840,8 @@ sns.heatmap(cf_matrix/np.sum(cf_matrix), cmap = cmap1, annot = True, annot_kws =
 
 
     
-![png](output_43_1.png)
-    
+![output_43_1](https://user-images.githubusercontent.com/75635908/166144668-9db39198-f159-46d8-9e0d-02e819cd1006.png)
+
 
 
 #### 2. Artificial Neural Network (ANN) 
@@ -1052,7 +1055,8 @@ plt.show()
 
 
     
-![png](output_47_0.png)
+![output_47_0](https://user-images.githubusercontent.com/75635908/166144690-bb04b767-f874-443a-85c3-83c65f0a41a4.png)
+
     
 
 
@@ -1072,7 +1076,8 @@ plt.show()
 
 
     
-![png](output_48_0.png)
+![output_48_0](https://user-images.githubusercontent.com/75635908/166144698-3a3c70ea-d902-4d66-a51c-f417b19ba342.png)
+
     
 
 
@@ -1104,7 +1109,8 @@ sns.heatmap(cf_matrix/np.sum(cf_matrix), cmap = cmap1, annot = True, annot_kws =
 
 
     
-![png](output_52_1.png)
+![output_52_1](https://user-images.githubusercontent.com/75635908/166144729-be091561-7b39-4b05-9f0c-1644a4bc13b1.png)
+
     
 
 
